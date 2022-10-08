@@ -3,6 +3,7 @@
 # Grupo laboratorio: 1
 # Materia: sis420
 
+
 # Alumnos:
 # Menodoza Benito Sergio
 # Andrade Flores Carlos Francisco
@@ -10,9 +11,18 @@
 # Ckuno Torihuano Jhonny Rodrigo
 
 
-# Desarrollar lo siguiente:
-# 1. Contruir un programa en Python que permita construir un laberinto utilizando listas y su representacion debe ser realizada utilizando caracteres, el tamaño debe ser ingresado cuando inicie el programa, como el numero de obstaculos,  el numero de celdas que representen paredes o espacio libre para transitar. 
-# 2. Implementar un mecanismo para que un caracter se desplaze de manera aleatoria solamente en los espacios considerados de libre transito.
+
+# Crear un software que simule un agente considerando, los diferentes tipos de escenarios y agentes que se revisaron en clases.
+# El agente debe corresponder con una entidad que ubique un determinado numero de objetos que
+# se estableceran al momento de uniciar el programa, el agente debe recorrer todo el laberinto hasta 
+# encontrar todos los objetos a buscar, terminando su trabajo cuando encuentre el ultimo.
+# Se debe controlar el tiempo que emplee en realizar este desafio.
+
+
+# Se implementa un agente que recorre el laberinto aleatoriamente segun los posibles caminos disponibles a su alrededor
+# los cuales actuan como sesores y de manera aleatoria se escoge un camino entre los espacios dispobles de manera aleatoria
+# el juego termina cuando se encuentra todos los objetivos los cuales se crean de manera aleatoria en el mapa
+# implementamos un contador de tiempo para ver cuanto tarda en terminar el juego
 
 # %%
 import random
