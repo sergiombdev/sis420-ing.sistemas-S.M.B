@@ -1,0 +1,21 @@
+Mendoza Benito Sergio
+Ingenieria de sistemas
+Sis420
+
+Ejercicio 8
+
+Busquedas informada
+Algoritmo busqueda heuristica
+
+El algoritmo se adapta bastante bien a la logica de solucion empleada
+donde el objetivo es ordenar una serie de numeros hasta encontrar el objetivo
+deseado.
+
+La logica empleada es el de numerar cada uno de los serillos y los posibles 
+espacios donde se moveran los serillos una vez echo esto, pasamos un modelo objetivo
+el cual ya cuenta con el resultado deseado con los unicos 2 movimientos 
+de los serillos , el algoritmo se encargara de ordenar los numeros segun e criterio 
+mencionado para alcanzar el objetivo. 
+
+
+https://github.com/sergiombdev/sis420-ing.sistemas-S.M.B
